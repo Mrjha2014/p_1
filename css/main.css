@@ -1,0 +1,97 @@
+body,
+html {
+    height: 100%;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.landing_page {
+    margin-bottom: 25px;
+    /* Full height */
+    height: 100%;
+    /* background-image: url("../img/1.jpg"); */
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.landing_page_1 {
+    margin-bottom: 25px;
+    background-color: rgb(197, 197, 187);
+    /* Full height */
+    height: 100%;
+}
+
+.landing_page_2_t {
+    background-color: rgb(104, 104, 101);
+    height: 4%;
+}
+
+.landing_page_2 {
+    background-color: rgb(104, 104, 101);
+    /* Full height */
+    height: 20%;
+}
+
+.landing_page_t {
+    margin-top: 25px;
+    background-color: rgb(197, 197, 187);
+    /* Full height */
+    height: 3%;
+}
+
+.landing_page_3 {
+    background-color: rgb(197, 197, 187);
+    /* Full height */
+    height: 100%;
+}
+
+.landing_page_4 {
+    margin-top: 25px;
+    background-color: rgb(173, 173, 140);
+    /* Full height */
+    height: 50%;
+}
+
+.rcorners {
+    margin-top: 5px;
+    margin-right: 20px;
+    border-radius: 15px;
+    background: #74806e;
+    width: 340px;
+    height: 150px;
+}
+
+.timer {
+    border-radius: 9px 5px;
+    background: #878a83;
+    padding: 2px;
+    width: 60px;
+    height: 25px;
+}
+
+.navbar-brand img {
+    width: 25px;
+}
+
+#wrap {
+    width: 330px;
+    height: 159px;
+    border-radius: 10px;
+    background: rgb(102, 99, 99);
+    position: relative;
+}
+
+iframe {
+    width: 320px;
+    height: 150px;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
